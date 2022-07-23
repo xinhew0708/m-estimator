@@ -1,0 +1,12 @@
+Package: mestimator
+Type: Package
+Title: Documentation on Hajek estimators with sandwich type variance estimators
+Version: 0.1.0
+Author: Xinhe Wang and Ben B. Hansen
+Maintainer: Xinhe Wang and Ben B. Hansen <xinhew@umich.edu, bbh@umich.edu>
+Description: This package contains all raw data and key analysis from our working paper on sandwich-type variance estimators for differences in Hajek estimators.
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
